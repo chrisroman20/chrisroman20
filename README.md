@@ -1,31 +1,31 @@
-## 👋 ¡Hola! Soy Christopher Alexander Roman Castro
+## 👋 Hello! I am Christopher Alexander Roman Castro
 
-### 🎓 Formación
+### 🎓 Education
 
-Estudiante de 8vo semestre de la carrera de Ing. en sistemas computacionales en el Instituto Tecnológico de Tijuana
+8th semester student of Computer Systems Engineering at the Instituto Tecnológico de Tijuana.
 
-### 💼 Experiencia Profesional
+### 💼 Professional Experience
 
-Desarrollador Full-Stack en Homoeonic.
+Full-Stack Developer at Homoeonic.
 
-### 🔧 Habilidades Técnicas
+### 🔧 Technical Skills
 
-Lenguajes de programación: C#, Python, Javascript, PHP, HTML5, CSS3, SQL.  
-Tecnologías y herramientas: Bootstrap, Tailwind CSS, Ionic, MahApps.Metro, React.js.  
-Metodologías: Scrum.
+Programming languages: C#, Python, JavaScript, PHP, HTML5, CSS3, SQL.  
+Technologies and tools: Bootstrap, Tailwind CSS, Ionic, MahApps.Metro, React.js.  
+Methodologies: Scrum.
 
-### 🌟 Proyectos Destacados
+### 🌟 Key Projects
 
-Los principales proyectos en los cuales estuve involucrado son:
+The main projects I have been involved in are:
 
-- **EntryFlow:** Es un proyecto de gestión de entradas y salidas por medio de reconocimiento facial utilizando la librería de OpenCV.
-- **SmartTags:** Es una aplicación destinada a manipular información almacenada en etiquetas de tinta electrónica, permitiendo cambios de precio en tiempo real para productos desde la aplicación a través de una conexión remota a un servidor central.
+- **EntryFlow:** A project for managing entries and exits through facial recognition using the OpenCV library.
+- **SmartTags:** An application aimed at manipulating information stored in e-ink tags, allowing real-time price changes for products from the application through a remote connection to a central server.
 
-### 📈 Objetivos y Aspiraciones
+### 📈 Goals and Aspirations
 
-Aspiro a asumir roles de liderazgo en proyectos de desarrollo de software, contribuyendo a la creación de soluciones tecnológicas que mejoren la eficiencia y la calidad de vida de los usuarios. Busco oportunidades para el aprendizaje continuo, el trabajo en equipo y enfrentar desafíos que me permitan crecer profesionalmente y aportar un valor significativo a la organización.
+I aspire to take on leadership roles in software development projects, contributing to the creation of technological solutions that enhance efficiency and quality of life for users. I seek opportunities for continuous learning, teamwork, and tackling challenges that allow me to grow professionally and add significant value to the organization.
 
-### 📫 Contacto
+### 📫 Contact
 
 chrisroman329@gmail.com  
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/christopher-roman-castro-752a94297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-roman-castro-752a94297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
