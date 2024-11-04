@@ -6,8 +6,8 @@
 
 ### 💼 Professional Experience
 
--**Full-Stack Developer at Homoeonic.**
--**IT Engineer at TCL.**
+- **Full-Stack Developer at Homoeonic.**
+- **IT Engineer at TCL.**
 
 ### 🔧 Technical Skills
 
