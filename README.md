@@ -2,11 +2,12 @@
 
 ### 🎓 Education
 
-8th semester student of Computer Systems Engineering at the Instituto Tecnológico de Tijuana.
+9th semester student of Computer Systems Engineering at the Instituto Tecnológico de Tijuana.
 
 ### 💼 Professional Experience
 
 Full-Stack Developer at Homoeonic.
+IT Engineer at TCL.
 
 ### 🔧 Technical Skills
 
